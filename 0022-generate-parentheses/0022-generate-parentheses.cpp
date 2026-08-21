@@ -1,19 +1,23 @@
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        if (n == 0) {
-        return {""};
+        vector<string> ans;
+        solve(n, 0, 0, "", ans);
+        return ans;
+    }
+    void solve(int n, int open, int close,
+               string curr, vector<string>& ans) {
+        if (curr.length() == 2 * n) {
+            ans.push_back(curr);
+            return;
         }
-        vector<string>result;
-        for(int i=0;i<n;i++){
-        vector<string> l=generateParenthesis(i);
-        vector<string> r=generateParenthesis(n-i-1);
-        for (int j = 0; j < l.size(); j++) {
-        for (int k = 0; k < r.size(); k++) {
-        result.push_back("(" + l[j] + ")" + r[k]);
-             }
-            }
+        if (open < n) {
+            solve(n, open + 1, close,
+                  curr + "(", ans);
         }
-        return result;
+        if (close < open) {
+            solve(n, open, close + 1,
+                  curr + ")", ans);
+        }
     }
 };
