@@ -31,6 +31,7 @@
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0461-hamming-distance](https://github.com/ananya489/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/ananya489/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/ananya489/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
