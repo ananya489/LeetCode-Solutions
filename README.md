@@ -33,6 +33,7 @@
 | [0461-hamming-distance](https://github.com/ananya489/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/ananya489/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/ananya489/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/ananya489/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
