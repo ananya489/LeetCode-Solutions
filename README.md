@@ -54,12 +54,14 @@
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
