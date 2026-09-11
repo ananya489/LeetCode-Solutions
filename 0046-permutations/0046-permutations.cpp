@@ -6,17 +6,15 @@ void solve(int i,int j,vector<int>&nums,vector<vector<int>>&ans){
         return ;
     }
     if(j==nums.size())
-    return ;
-        swap(nums[i],nums[j]);
-        solve(i+1,i+1,nums,ans);
-        swap(nums[i],nums[j]);
-        solve(i,j+1,nums,ans);
-    
+    return;
+    swap(nums[i],nums[j]);
+    solve(i+1,i+1,nums,ans);
+    swap(nums[i],nums[j]);
+    solve(i,j+1,nums,ans);
 }
     vector<vector<int>> permute(vector<int>& nums) {
-       int n=nums.size();
-       vector<vector<int>>ans;
-       solve(0,0,nums,ans);
-       return ans;
+        vector<vector<int>>ans;
+        solve(0,0,nums,ans);
+        return ans;
     }
 };
