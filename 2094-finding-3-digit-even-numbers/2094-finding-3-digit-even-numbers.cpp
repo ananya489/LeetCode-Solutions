@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-       unordered_set<int>uniqueN;
+    //    unordered_set<int>uniqueN;
+      set<int>uniqueN;
         int n=digits.size();
         for(int i=0;i<n;i++){
             if(digits[i]==0)
@@ -20,8 +21,9 @@ public:
             }
         }
         // convert unordered_set into vectors;
-        vector<int>ans(uniqueN.begin(), uniqueN.end());
-        sort(ans.begin(),ans.end());
-        return ans;
+        // vector<int>ans(uniqueN.begin(), uniqueN.end());
+        // sort(ans.begin(),ans.end());
+        // return ans;
+        return vector<int>(uniqueN.begin(),uniqueN.end());
     }
 };
