@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0046-permutations](https://github.com/ananya489/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -93,6 +94,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/ananya489/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Prefix Sum
