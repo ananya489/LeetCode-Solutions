@@ -22,6 +22,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/ananya489/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ananya489/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -143,5 +144,6 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/ananya489/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ananya489/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
