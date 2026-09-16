@@ -74,6 +74,7 @@
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
