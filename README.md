@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/ananya489/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0567-permutation-in-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1446-consecutive-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
