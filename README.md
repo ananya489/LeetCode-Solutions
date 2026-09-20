@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/ananya489/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0567-permutation-in-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
