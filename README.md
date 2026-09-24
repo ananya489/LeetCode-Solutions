@@ -32,6 +32,7 @@
 | [0836-rectangle-overlap](https://github.com/ananya489/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ananya489/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ananya489/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -87,6 +88,7 @@
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
