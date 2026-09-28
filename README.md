@@ -87,6 +87,7 @@
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -152,6 +153,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -184,6 +187,18 @@
 | [0223-rectangle-area](https://github.com/ananya489/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ananya489/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ananya489/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
 
 
