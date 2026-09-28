@@ -90,6 +90,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -161,6 +162,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Enumeration
