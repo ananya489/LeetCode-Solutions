@@ -5,9 +5,11 @@ public:
         deque<int>dq;
         vector<int>result;
         for(int i=0;i<n;i++){
+            // remove indices outside the window
             while(!dq.empty() && dq.front()<=i-k){
                 dq.pop_front();
             }
+            //  remove smaller window from back
             while(!dq.empty() && nums[dq.back()]<=nums[i]){
                 dq.pop_back();
             }
