@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/ananya489/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ananya489/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -128,6 +129,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/ananya489/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -209,6 +211,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
 
 
