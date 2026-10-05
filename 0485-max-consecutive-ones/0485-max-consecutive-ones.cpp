@@ -7,11 +7,11 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]==1){
                 c++;
+            maxc=max(maxc,c);
             }
             else{
                 c=0;
             }
-            maxc=max(maxc,c);
         }
         return maxc;
     }
