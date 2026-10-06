@@ -74,6 +74,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/ananya489/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ananya489/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Array
@@ -86,6 +87,7 @@
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -114,6 +116,7 @@
 | [0001-two-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ananya489/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ananya489/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -135,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -254,6 +258,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 
