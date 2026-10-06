@@ -12,6 +12,6 @@ public:
             }
             mp[a]=i;
         }
-    return {};
+    return {-1,-1};
     }
 };
