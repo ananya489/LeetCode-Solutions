@@ -94,6 +94,7 @@
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -257,6 +258,7 @@
 | [0022-generate-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
