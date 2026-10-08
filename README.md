@@ -97,6 +97,7 @@
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/ananya489/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -130,6 +131,7 @@
 | [0001-two-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ananya489/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/ananya489/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -288,6 +290,10 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ananya489/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
 
 
