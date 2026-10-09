@@ -4,7 +4,7 @@ int atMost(const vector<int>& nums, int k) {
         vector<int> frequency(nums.size() + 1);
         int left = 0;
         int distinct = 0, count = 0;
-        for (int right = 0; right < nums.size(); ++right) 
+        for (int right = 0; right < nums.size(); right++) 
         {
             if (frequency[nums[right]]++ == 0) 
             distinct++;
