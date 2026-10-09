@@ -1,24 +1,22 @@
 class Solution {
 public:
-int subarray(vector<int>&nums,int k){
-    int l=0;
-    int r=0;
-    int c=0;
-    map<int,int>mp;
-    while(r<nums.size()){
-        mp[nums[r]]++;
-        while(mp.size()>k){
-            mp[nums[l]]--;
-            if(mp[nums[l]]==0)
-            mp.erase(nums[l]);
-            l++;
+int atMost(const vector<int>& nums, int k) {
+        vector<int> frequency(nums.size() + 1);
+        int left = 0;
+        int distinct = 0, count = 0;
+        for (int right = 0; right < nums.size(); ++right) 
+        {
+            if (frequency[nums[right]]++ == 0) 
+            distinct++;
+            while (distinct > k) {
+                if (--frequency[nums[left++]] == 0) 
+                distinct--;
+            }
+            count += right - left + 1;
         }
-        c=c+(r-l+1);
-        r++;
+        return count;
     }
-    return c;
-}
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return subarray(nums,k)-subarray(nums,k-1);
+        return atMost(nums,k)-atMost(nums,k-1);
     }
 };
