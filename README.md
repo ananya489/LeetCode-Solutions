@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/ananya489/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ananya489/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -98,6 +99,7 @@
 | [0053-maximum-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ananya489/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -166,6 +168,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ananya489/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
