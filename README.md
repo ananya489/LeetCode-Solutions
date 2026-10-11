@@ -125,6 +125,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananya489/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -233,6 +234,7 @@
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
