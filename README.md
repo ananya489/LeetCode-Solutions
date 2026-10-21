@@ -45,6 +45,7 @@
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ananya489/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0775-global-and-local-inversions](https://github.com/ananya489/LeetCode-Solutions/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ananya489/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ananya489/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -124,6 +125,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0775-global-and-local-inversions](https://github.com/ananya489/LeetCode-Solutions/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ananya489/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
