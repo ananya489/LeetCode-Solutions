@@ -127,6 +127,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ananya489/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/ananya489/LeetCode-Solutions/tree/main/0775-global-and-local-inversions/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ananya489/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ananya489/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/ananya489/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -187,6 +188,7 @@
 | [0410-split-array-largest-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0456-132-pattern](https://github.com/ananya489/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ananya489/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ananya489/LeetCode-Solutions/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
