@@ -21,7 +21,7 @@ bool possible(vector<int>&nums,int n,int k,int maxs){
         int n=nums.size();
         int l=INT_MIN;
         int h=0;
-        int ans=-1;
+        // int ans=-1;
         for(int i=0;i<n;i++){
             l=max(l,nums[i]);
             h+=nums[i];
@@ -29,13 +29,13 @@ bool possible(vector<int>&nums,int n,int k,int maxs){
         while(l<=h){
             int mid=l+(h-l)/2;
             if(possible(nums,n,k,mid)){
-                ans=mid;
+                // ans=mid;
                 h=mid-1;
             }
             else{
                 l=mid+1;
             }
         }
-        return ans;
+        return l;
     }
 };
