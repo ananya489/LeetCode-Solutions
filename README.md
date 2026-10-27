@@ -146,6 +146,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananya489/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -253,6 +254,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2643-row-with-maximum-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
