@@ -40,6 +40,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ananya489/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/ananya489/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0223-rectangle-area](https://github.com/ananya489/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
