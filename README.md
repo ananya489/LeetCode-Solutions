@@ -43,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/ananya489/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/ananya489/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/ananya489/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/ananya489/LeetCode-Solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -118,6 +119,7 @@
 | [0162-find-peak-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/ananya489/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ananya489/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -295,6 +297,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -320,6 +323,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -402,6 +406,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/ananya489/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
 
 
