@@ -48,6 +48,7 @@
 | [0231-power-of-two](https://github.com/ananya489/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/ananya489/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0507-perfect-number](https://github.com/ananya489/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/ananya489/LeetCode-Solutions/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0836-rectangle-overlap](https://github.com/ananya489/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
