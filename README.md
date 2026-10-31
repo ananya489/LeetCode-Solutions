@@ -164,6 +164,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
@@ -272,6 +273,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +355,7 @@
 | [0152-maximum-product-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
