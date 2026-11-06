@@ -341,6 +341,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0456-132-pattern](https://github.com/ananya489/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya489/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -435,12 +436,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
