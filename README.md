@@ -337,6 +337,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ananya489/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0456-132-pattern](https://github.com/ananya489/LeetCode-Solutions/tree/main/0456-132-pattern/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -430,14 +431,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananya489/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
 
