@@ -169,6 +169,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
@@ -367,6 +368,7 @@
 | [0410-split-array-largest-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
