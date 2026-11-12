@@ -166,6 +166,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
