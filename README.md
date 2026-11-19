@@ -160,6 +160,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananya489/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/ananya489/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
@@ -243,6 +244,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ananya489/LeetCode-Solutions/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/ananya489/LeetCode-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -377,6 +379,7 @@
 | [0410-split-array-largest-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ananya489/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ananya489/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
