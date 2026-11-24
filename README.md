@@ -59,6 +59,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ananya489/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ananya489/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ananya489/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ananya489/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ananya489/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -170,6 +171,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/ananya489/LeetCode-Solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ananya489/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ananya489/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ananya489/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ananya489/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/ananya489/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -309,6 +311,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ananya489/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananya489/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ananya489/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ananya489/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +319,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ananya489/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ananya489/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananya489/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -340,6 +344,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ananya489/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/ananya489/LeetCode-Solutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ananya489/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
