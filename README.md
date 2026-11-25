@@ -1,6 +1,4 @@
-
-  
-  LEETCODE SOLUTION:
+LEETCODE SOLUTION:
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
